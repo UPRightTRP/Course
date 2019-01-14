@@ -1,1 +1,1 @@
-# ReadingCourse
+# UPRightTRP Courses
